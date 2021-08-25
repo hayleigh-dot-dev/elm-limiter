@@ -67,7 +67,6 @@ update msg modl =
                         { model
                             | throttler = throttler
                             , rawInput = input
-                            }
                         }
                     )
 
