@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "pd-andy/elm-limiter",
+    "name": "hayleigh-dot-dev/elm-limiter",
     "summary": "Throttling and debouncing for messages and values.",
     "license": "MIT",
     "version": "1.0.0",
